@@ -1,1 +1,0 @@
-swap(&arr[i], &arr[j]);
